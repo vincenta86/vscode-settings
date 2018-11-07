@@ -1,0 +1,23 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+   {
+      "key": "shift+alt+pageup",
+      "command": "editor.action.insertCursorAbove",
+      "when": "editorTextFocus"
+   },
+   {
+      "key": "ctrl+alt+home",
+      "command": "-editor.action.insertCursorAbove",
+      "when": "editorTextFocus"
+   },
+   {
+      "key": "ctrl+alt+end",
+      "command": "editor.action.insertCursorBelow",
+      "when": "editorTextFocus"
+   },
+   {
+      "key": "shift+alt+pagedown",
+      "command": "editor.action.insertCursorBelow",
+      "when": "editorTextFocus"
+   },
+]
