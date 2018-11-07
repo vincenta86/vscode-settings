@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "workbench.colorTheme": "Cobalt2",
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "editor.tabSize": 3,
+    "git.confirmSync": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "window.zoomLevel": 0,
+    "indentRainbow.errorColor": "rgba(0,34,89,0.2)",
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "explorer.openEditors.visible": 0,
+    "terminal.integrated.rendererType": "dom"
+}
