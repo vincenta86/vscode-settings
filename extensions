@@ -1,0 +1,8 @@
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension Equinusocio.vsc-material-theme
+code --install-extension IBM.output-colorizer
+code --install-extension ms-python.python
+code --install-extension ms-vscode.PowerShell
+code --install-extension oderwat.indent-rainbow
+code --install-extension PeterJausovec.vscode-docker
+code --install-extension wesbos.theme-cobalt2
